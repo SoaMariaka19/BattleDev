@@ -10,4 +10,4 @@ Le compte à rebours commence : 10... 9... 8.... Mais gros trou de mémoire, imp
 À partir de la liste des boutons, écrivez un programme renvoyant le bouton qui fera décoller la fusée.
 
 
-Sur le terminal de VSCode , faire npm install prompt-sync avant d'exécuter le code 
+>>Sur le terminal de VSCode , faire npm install prompt-sync avant d'exécuter le code 
